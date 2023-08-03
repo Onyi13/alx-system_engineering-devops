@@ -4,3 +4,4 @@ groups is the script that prints all the groups the current user is part of
 sudo chown betty hello
 touch
 chmod 744 hello
+chmod 754 hello
