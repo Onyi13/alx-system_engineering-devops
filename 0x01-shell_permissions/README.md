@@ -9,4 +9,4 @@ chmod 751
 chmod 007
 chmod 753
 chmod 644
-find . -type d -exec chmod 711 {} +
+find . -type d -exec chmod 755 {} +
