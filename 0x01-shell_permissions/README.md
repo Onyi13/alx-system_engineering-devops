@@ -7,3 +7,4 @@ chmod 744 hello
 chmod 754
 chmod 751
 chmod 007
+chmod 753
