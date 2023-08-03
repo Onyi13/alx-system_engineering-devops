@@ -5,3 +5,4 @@ sudo chown betty hello
 touch
 chmod 744 hello
 chmod 754
+chmod 751
