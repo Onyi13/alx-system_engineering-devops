@@ -3,3 +3,4 @@ whoami is the script that prints the effective username of the current user
 groups is the script that prints all the groups the current user is part of
 sudo chown betty hello
 touch
+chmod 744 hello
