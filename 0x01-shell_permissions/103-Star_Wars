@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Space... the final frontier."
+telnet towel.blinkenlights.nl
