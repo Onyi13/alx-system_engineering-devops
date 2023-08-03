@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Space... the final frontier."
+sleep 2
+echo "A lone starship emerges from the darkness."
+sleep 2
+echo "The crew is tense, awaiting the command from their fearless leader."
+sleep 2
+echo "\"Prepare for warp speed,\" the commander's voice echoes through the ship."
+sleep 2
+echo "The hum of the engines intensifies. The ship vanishes into the star-studded abyss."
