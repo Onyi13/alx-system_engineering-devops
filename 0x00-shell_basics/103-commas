@@ -1,2 +1,2 @@
 #!/bin/bash
-(ls -p -v --group-directories-first && echo) | tr '\n' ',' | sed 's/,,/,\\n/g'
+python3 -c "import os; print(','.join(sorted([f+'/' if os.path.isdir(f) else f for f in os.listdir() if not f.startswith('.')], key=lambda x: (x[0].isdigit(), x.lower()))))"
