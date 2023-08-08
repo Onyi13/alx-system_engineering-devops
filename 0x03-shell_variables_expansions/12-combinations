@@ -1,2 +1,2 @@
 #!/bin/bash
-for i in {a..n}{a..z} o{a..n} p{a..z} {b..z}{a..z}; do echo $i; done
+printf "%s\n" {a..n}{a..z} o{a..n} p{a..z} {b..z}{a..z}
